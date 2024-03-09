@@ -8,4 +8,3 @@ efficiency: simplify the hiring process by efficiently organizing candidate info
 accessibility: ensure accessibility for businesses of all sizes and industries with a user-friendly platform, promoting inclusivity and ease of use
 customization: tailor solutions to meet specific recruitment needs and preferences, providing flexibility and alignment with organizational goals
 scalability: grow seamlessly with a system that remains reliable and performs well, adapting to evolving recruitment demands over time
-![image](https://github.com/shuklacshruti/ApplicationTrackingSystem/assets/123906451/658fbea8-ed13-42ec-9368-68709d999358)
