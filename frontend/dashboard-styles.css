@@ -1,0 +1,32 @@
+/* Dashboard page styles */
+.dashboard-container {
+    padding: 20px;
+}
+
+.dashboard-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.dashboard-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dashboard-container ul li {
+    margin-bottom: 10px;
+}
+
+.dashboard-container ul li a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.dashboard-container ul li a:hover {
+    text-decoration: underline;
+}
+
+.dashboard-container p {
+    margin-top: 20px;
+    color: #666;
+}
